@@ -1,0 +1,13 @@
+From: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+
+Git:
+  Version Control
+  
+  
+GitHub:
+  Repository
+    "Repo"
+  Commit -> "Save"
+    Creates a long hash - you don't need to keep track of this hash anywhere else.
+    
+    
