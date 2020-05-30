@@ -12,4 +12,5 @@ Red
 These are the colors of the rainbow.
 And the unicorn.
 Print this file.
+CHECK for case sensitivity.
 
