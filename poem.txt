@@ -7,10 +7,12 @@ Blue
 Green
 Indigo
 Unicorn
+Aardvark
 Yellow
 Red
 These are the colors of the rainbow.
 And the unicorn.
+And the aardvark.
 Print this file.
 Check for case sensitivity.
 
