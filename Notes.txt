@@ -10,4 +10,7 @@ GitHub:
   Commit -> "Save"
     Creates a long hash - you don't need to keep track of this hash anywhere else.
     
-    
+From the command line 
+  https://www.youtube.com/watch?v=oK8EvVeVltE
+
+
