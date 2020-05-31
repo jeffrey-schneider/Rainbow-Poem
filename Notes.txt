@@ -9,8 +9,22 @@ GitHub:
     "Repo"
   Commit -> "Save"
     Creates a long hash - you don't need to keep track of this hash anywhere else.
+  Branch ->
+    
+  Merge ->
+  
+  Fork ->
+  
+  Pull request ->
     
 From the command line 
   https://www.youtube.com/watch?v=oK8EvVeVltE
+  
+  Created a folder under Documents called GitRepos
+  
+  
+  New term: Clone
+  
+  
 
 
